@@ -24,3 +24,4 @@ export P4CONFIG=.p4config
 export P4MERGE=kdiff3
 export PS1='\[\e[0;32m\]\u@\h:\w\$ \[\e[0m\]'
 export LANG=C
+export EDITOR='vim'
